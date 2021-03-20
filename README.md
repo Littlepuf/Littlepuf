@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer, and Kryptonite.
 - 🌱 I’m currently learning HTML, CSS and Linux.
 - 💞️ I’m looking to collaborate on everyone
-- 📫 How to reach me, go in Space et you find me
+- 📫 How to reach me, go in Space et you will find me
  
 
 <!---
